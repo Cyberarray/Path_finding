@@ -6,4 +6,4 @@ A python visualization of the A* path finding algorithm. It allows you to pick y
 - TKinter
 - Pygame
 
-# Enjoy
+
